@@ -1,2 +1,0 @@
-svm_rbf.pickle filter=lfs diff=lfs merge=lfs -text
-svm_linear.pickle filter=lfs diff=lfs merge=lfs -text
